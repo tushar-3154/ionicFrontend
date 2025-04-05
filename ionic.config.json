@@ -1,0 +1,7 @@
+{
+  "name": "ionicFronted",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
